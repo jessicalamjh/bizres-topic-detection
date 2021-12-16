@@ -1,0 +1,56 @@
+num_topics = 13
+group         other  sustainability                                                                                                                 topic_words
+topic_00   8.077175        1.654688     fair_value, temenos, sfs_group, client, executive_board, swiss_post, vifor_pharma, interest_rate, annual_general, tecan
+topic_01   2.759618       11.186677               temenos, swiss_post, fair_value, client, gri, interest_rate, vifor_pharma, tecan, bucher_industries, datwyler
+topic_02   4.310951        8.463999                   temenos, fair_value, komax, gri, client, vifor_pharma, bucher_industries, banking, nestl, executive_board
+topic_03   5.179934       10.095877                                             tecan, coop, temenos, fair_value, und, coop_group, retail, lease, datwyler, pmi
+topic_04   6.135603        1.378133      fair_value, swiss_post, komax, vifor_pharma, executive_board, real_estate, temenos, asset_liability, schindler, client
+topic_05  15.277400        3.897565           fair_value, gf, swiss_post, interest_rate, executive_board, mch_group, vifor_pharma, coop, client, annual_general
+topic_06   9.501961        1.215951           swiss_post, vifor_pharma, fair_value, temenos, executive_board, postfinance, patient, million_franc, client, coop
+topic_07   0.682268        0.553906  vifor_pharma, temenos, fair_value, sfs_group, interest_rate, swiss_post, non_current, executive_board, eur, annual_general
+topic_08   3.173716        1.836271                             fair_value, givaudan, client, temenos, gf, swiss_post, komax, tecan, non_current, interest_rate
+topic_09   3.730662       11.637835                         child, vifor_pharma, fair_value, coop, nestl, tecan, client, real_estate, givaudan, executive_board
+topic_10  10.629135        0.766693          temenos, fair_value, swiss_post, client, sfs_group, executive_board, vifor_pharma, bucher_industries, eur, patient
+topic_11   4.770930       10.543383                vifor_pharma, client, fair_value, patient, r_e, annual_general, temenos, interest_rate, executive_board, pmi
+topic_12   4.242666       11.322284   child, fair_value, temenos, farmer, datwyler, givaudan, annual_general, executive_board, general_meeting, audit_committee
+
+
+
+num_topics = 18
+group         other  sustainability                                                                                                              topic_words
+topic_00   8.122088        1.388290  fair_value, sfs_group, executive_board, client, temenos, swiss_post, interest_rate, annual_general, vifor_pharma, tecan
+topic_01   2.209436        5.554613            temenos, swiss_post, fair_value, client, gri, tecan, interest_rate, vifor_pharma, bucher_industries, datwyler
+topic_02   4.570840        8.001380                temenos, fair_value, komax, client, gri, vifor_pharma, banking, nestl, bucher_industries, executive_board
+topic_03   4.159582        8.677244                                 tecan, coop, temenos, fair_value, coop_group, und, retail, lease, client, annual_general
+topic_04   4.828914        0.483325  fair_value, swiss_post, komax, executive_board, vifor_pharma, real_estate, temenos, client, annual_general, usd_million
+topic_05  14.909712        4.037046      fair_value, gf, swiss_post, mch_group, interest_rate, executive_board, vifor_pharma, postfinance, coop, non_current
+topic_06   8.475392        1.630627        swiss_post, vifor_pharma, fair_value, temenos, postfinance, patient, executive_board, million_franc, client, coop
+topic_07   0.295645        0.183568          vifor_pharma, temenos, fair_value, sfs_group, swiss_post, interest_rate, non_current, executive_board, pmi, eur
+topic_08   2.174144        0.322183                          fair_value, client, givaudan, gf, temenos, komax, swiss_post, non_current, interest_rate, tecan
+topic_09   4.504019        7.863563                 child, vifor_pharma, fair_value, nestl, coop, client, real_estate, child_labor, executive_board, patient
+topic_10  13.689626        1.391547           temenos, fair_value, sfs_group, client, swiss_post, executive_board, vifor_pharma, bucher_industries, sfs, eur
+topic_11   4.380631        7.404122          vifor_pharma, client, fair_value, patient, r_e, swiss_post, interest_rate, executive_board, annual_general, pmi
+topic_12   2.077854       10.472390    child, fair_value, temenos, farmer, datwyler, executive_board, general_meeting, annual_general, givaudan, child_labor
+topic_13   0.560720        6.196978                  temenos, fair_value, givaudan, tecan, gf, annual_general, sfs_group, gri, executive_board, vifor_pharma
+topic_14   0.465816        7.860398                                     swiss_post, gf, fair_value, pmi, temenos, client, vifor_pharma, eur, komax, givaudan
+topic_15   0.394508        0.354681                fair_value, temenos, swiss_post, interest_rate, client, lease, annual_general, datwyler, non_current, und
+topic_16   1.596959        2.384233      fair_value, vifor_pharma, datwyler, swiss_post, annual_general, gri, givaudan, bucher_industries, coop, non_current
+topic_17   1.034102        0.385889                 fair_value, temenos, vifor_pharma, gf, gri, interest_rate, client, asset_liability, givaudan, swiss_post
+
+
+
+num_topics = 2
+group         other  sustainability                                                                                                            topic_words
+topic_00  55.853717       13.892181  fair_value, executive_board, vifor_pharma, temenos, client, swiss_post, annual_general, interest_rate, eur, sfs_group
+topic_01  23.057211       61.011653                            temenos, swiss_post, fair_value, vifor_pharma, client, gf, gri, child, tecan, interest_rate
+
+
+
+num_topics = 3
+group         other  sustainability                                                                                                              topic_words
+topic_00  40.400019        8.605163  fair_value, swiss_post, executive_board, vifor_pharma, client, sfs_group, temenos, interest_rate, annual_general, tecan
+topic_01  19.411438       30.755332                     swiss_post, temenos, fair_value, vifor_pharma, client, tecan, interest_rate, child, gri, non_current
+topic_02  19.085713       35.517637                        fair_value, temenos, vifor_pharma, gf, komax, client, gri, executive_board, givaudan, non_current
+
+
+

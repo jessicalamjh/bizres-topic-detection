@@ -1,0 +1,28 @@
+
+number of topics: 11
+- fair_value, client, temenos, executive_board, sfs_group, swiss_post, interest_rate, annual_general, vifor_pharma, usd_million
+- temenos, swiss_post, fair_value, client, vifor_pharma, interest_rate, gri, farmer, datwyler, tecan
+- temenos, fair_value, komax, client, gri, vifor_pharma, banking, bucher_industries, executive_board, nestl
+- tecan, coop, temenos, fair_value, coop_group, lease, datwyler, pmi, retail, und
+- fair_value, swiss_post, komax, vifor_pharma, executive_board, real_estate, client, annual_general, asset_liability, lease
+- fair_value, gf, swiss_post, interest_rate, executive_board, vifor_pharma, mch_group, eur, non_current, annual_general
+- swiss_post, vifor_pharma, fair_value, temenos, patient, executive_board, coop, coop_group, postfinance, givaudan
+- vifor_pharma, temenos, fair_value, sfs_group, interest_rate, non_current, swiss_post, pmi, annual_general, executive_board
+- fair_value, givaudan, client, gf, temenos, swiss_post, non_current, interest_rate, sfs_group, komax
+- child, vifor_pharma, fair_value, coop, nestl, child_labor, client, farmer, executive_board, givaudan
+- temenos, fair_value, client, sfs_group, swiss_post, vifor_pharma, executive_board, patient, bucher_industries, non_current
+
+number of topics: 7
+- sfs_group, fair_value, client, executive_board, temenos, swiss_post, interest_rate, vifor_pharma, annual_general, eur
+- temenos, swiss_post, fair_value, client, vifor_pharma, interest_rate, gri, child, datwyler, sfs_group
+- temenos, fair_value, vifor_pharma, client, gri, komax, banking, executive_board, bucher_industries, nestl
+- tecan, temenos, coop, fair_value, coop_group, lease, retail, und, datwyler, pmi
+- fair_value, swiss_post, komax, executive_board, vifor_pharma, client, real_estate, temenos, givaudan, asset_liability
+- fair_value, gf, interest_rate, swiss_post, executive_board, vifor_pharma, non_current, client, annual_general, coop
+- swiss_post, vifor_pharma, fair_value, temenos, patient, givaudan, executive_board, client, postfinance, coop
+
+number of topics: 4
+- fair_value, swiss_post, vifor_pharma, executive_board, client, sfs_group, temenos, interest_rate, annual_general, patient
+- swiss_post, fair_value, temenos, vifor_pharma, client, interest_rate, child, gri, non_current, farmer
+- fair_value, temenos, vifor_pharma, komax, gf, client, gri, executive_board, banking, givaudan
+- coop, tecan, fair_value, temenos, coop_group, swiss_post, lease, retail, givaudan, non_current
